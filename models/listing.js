@@ -1,7 +1,8 @@
-//const review = require("./review.js");
+const Review = require("./review.js");
 //const { listingSchema } = require("../schema");
 const mongoose = require("mongoose");
 const Schema = mongoose.Schema;
+ 
 
 //const Review=require("./review");
 
