@@ -39,6 +39,27 @@ Installation:
 Usage:
 - As a User: Browse listings, read reviews, and leave your own reviews for hotels.
 - As an Owner: Create a listing for your hotel, edit details, and manage reviews.
+  
+
+Screenshots:
+
+SignUp:
+![Screenshot 2025-02-01 142013](https://github.com/user-attachments/assets/5f9458d7-c3bd-44c1-ba46-92dc94d2af70)
+
+Home Page (All Listings):
+![Screenshot 2025-02-01 141702](https://github.com/user-attachments/assets/3bbb4252-c021-4701-b63c-32858830a15a)
+
+Description:
+![Screenshot 2025-02-01 141928](https://github.com/user-attachments/assets/a3f1d154-c821-44bb-9434-24cacac030d2)
+
+Reviews:
+![Screenshot 2025-02-01 141943](https://github.com/user-attachments/assets/b534c1f0-0e05-4fbd-98db-a24b2e585ea5)
+
+Create New:
+![Screenshot 2025-02-01 142058](https://github.com/user-attachments/assets/8e4fb5e7-0f06-41d0-a07f-a078e03e89d2)
+
+Login:
+![Screenshot 2025-02-01 142024](https://github.com/user-attachments/assets/36ab5e30-cc5f-4a4d-8cd3-a988961e4db0)
 
 Contributing:
 If you would like to contribute to the project, feel free to fork the repository, make changes, and submit a pull request. All contributions are welcome.
